@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dom manipulations snapshot test 1`] = `
+"
+    <main class=\\"main-content\\">
+      <section class=\\"counter-content\\">
+        Counter:
+        <div class=\\"counter\\" id=\\"counter\\">1</div>
+        <button id=\\"incBtn\\">Click Me</button>
+      </section>
+    </main>
+  "
+`;
